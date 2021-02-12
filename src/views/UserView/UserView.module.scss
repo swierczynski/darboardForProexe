@@ -1,0 +1,22 @@
+.main {
+  padding: 40px;
+
+
+  .upperWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .tableWithTitleValues {
+    h3 {
+      text-align: center;
+      padding-top: 50px;
+    }
+  }
+
+}
